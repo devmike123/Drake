@@ -5,5 +5,6 @@ Hi Everyone! I am Drake! A Github Repository which is here to help you with the 
 <br>
 
 - Please check the [main](https://github.com/DevMike123/Drake/tree/main/main) folder to access the list of programs.
+- You can check [this image](https://github.com/DevMike123/Drake/tree/main/main/logic.PNG) which contains the logic of some special programs.
 - Please do suggest some other programs by making an [issue](https://github.com/DevMike123/Drake/issues/new).
 - Thank You :)
